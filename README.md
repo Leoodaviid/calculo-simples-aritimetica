@@ -2,4 +2,4 @@
 
 
 
-https://github.com/Leoodaviid/C-culo-simples-de-aritim-tica-.git
+https://leoodaviid.github.io/calculo-simples-aritimetica/
