@@ -11,7 +11,4 @@ function somar() {
     let s = (t1 + t2 + t3 + t4) / 4;
 
     res.innerHTML = `A média final é: ${s}`;
-
-
 }
-
