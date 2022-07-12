@@ -14,5 +14,5 @@
 
 <h5> ❗Confira o código e se manifeste!</h5>
 
-<p> Deixe suas dicas, melhorias ou criticas! Estou em fase embrionária no mundo dos desenvolvedores Front - End, não quero ser o dev que copia e cola, estou em busca de adiquirir conhecimentos sólidos na área. Quero deixar aqui tudo registrado como forma de ver minha evolução. 🚀🚀👨‍💻</p>
+<p> Deixe sua dica, melhoria ou critica❗ Estou em fase embrionária no mundo dos desenvolvedores Front - End, não quero ser o dev que copia e cola, estou em busca de adiquirir conhecimentos sólidos na área. Quero deixar aqui tudo registrado como forma de ver minha evolução. 🚀🚀👨‍💻</p>
 
